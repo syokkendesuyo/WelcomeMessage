@@ -1,0 +1,15 @@
+name: WelcomeMessage
+version: 0.6
+main: pikagorou0806.welcomemessagev6.Main
+prefix: WelcomeMessage
+
+commands:
+  rules:
+    description: show server rules.
+    usage: use /rules  Show server rule.
+    aliases: [rule]
+
+  updates:
+    description: show server updates.
+    usage: use /updates  Show server update.
+    aliases: [update]
