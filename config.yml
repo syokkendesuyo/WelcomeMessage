@@ -1,6 +1,0 @@
-#WelcomePlugin Config-File! Edit any message.
-loginmessage: さん、%e私の%2サーバー%eへようこそ!
-rules:
-  - 楽しんで1
-updates:
-  - WelcomeMessageプラグインを導入しました
