@@ -1,0 +1,13 @@
+#WelcomePlugin Config-File! Edit any message.
+
+loginrules: true
+
+loginupdates: true
+
+loginmsg: こんにちは!! %e私のサーバーにようこそ!!
+
+rules:
+  - 1. %e楽しんで!!
+
+updates:
+  - 1. %cWelcomePlugin%eを導入しました!!
